@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 > [!TIP]
 > More informations about me:  
 
--🔭 I’m currently working at IUT Bayonne et du Pays Basque (student) => Soon <a href="https://2600.eu">@Ecole2600🇫🇷🏴‍☠️</a>       
--🌱 I’m currently learning C++, JS, PHP, C, Python, SQL or bash...  
+-🔭 I’m currently working at <a href="https://2600.eu">@Ecole2600🇫🇷🏴‍☠️</a>       
+-🌱 I’m currently learning Reverse Engineering (C/C++ Lover)
 
 ---
 # INFORMATIONS 
